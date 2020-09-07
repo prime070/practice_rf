@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/practice_rf/static/css/main.9be8ff96.chunk.css",
+    "main.js": "/practice_rf/static/js/main.d6a8d5ae.chunk.js",
+    "main.js.map": "/practice_rf/static/js/main.d6a8d5ae.chunk.js.map",
+    "runtime-main.js": "/practice_rf/static/js/runtime-main.63f64690.js",
+    "runtime-main.js.map": "/practice_rf/static/js/runtime-main.63f64690.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/practice_rf/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.46982053.chunk.js": "/practice_rf/static/js/2.46982053.chunk.js",
+    "static/js/2.46982053.chunk.js.map": "/practice_rf/static/js/2.46982053.chunk.js.map",
+    "index.html": "/practice_rf/index.html",
+    "precache-manifest.e88ebe58211fe3ae084f6001d1b8dfea.js": "/practice_rf/precache-manifest.e88ebe58211fe3ae084f6001d1b8dfea.js",
+    "service-worker.js": "/practice_rf/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/practice_rf/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.9be8ff96.chunk.css.map": "/practice_rf/static/css/main.9be8ff96.chunk.css.map",
+    "static/js/2.46982053.chunk.js.LICENSE.txt": "/practice_rf/static/js/2.46982053.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/practice_rf/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63f64690.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.46982053.chunk.js",
+    "static/css/main.9be8ff96.chunk.css",
+    "static/js/main.d6a8d5ae.chunk.js"
+  ]
+}
